@@ -19,8 +19,8 @@ Este é um simples jogo da velha implementado em Python usando a biblioteca Tkin
 
 ## Capturas de Tela
 
-![Captura de Tela 1](https://raw.githubusercontent.com/Nayumt99/jogodavelha/main/Screenshot_23.jpg)
-![Captura de Tela 2](https://raw.githubusercontent.com/Nayumt99/jogodavelha/main/Screenshot_24.jpg)
+[Captura de Tela 1](https://raw.githubusercontent.com/Nayumt99/jogodavelha/main/Screenshot_23.jpg)
+[Captura de Tela 2](https://raw.githubusercontent.com/Nayumt99/jogodavelha/main/Screenshot_24.jpg)
 
 ## Contribuições
 
