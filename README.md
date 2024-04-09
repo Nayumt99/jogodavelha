@@ -27,6 +27,4 @@ Este é um simples jogo da velha implementado em Python usando a biblioteca Tkin
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
